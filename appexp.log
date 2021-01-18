@@ -1,0 +1,5 @@
+2021-01-18 08:32:46,942 -root - ERROR - Problem with url http://api.dataatwork.org/v1/skills/6ea4465d0add468565dc580d1fcaafb6/related_jobs reported status code: 404 ; reason: NOT FOUND
+2021-01-18 08:33:17,600 -root - ERROR - Problem with url http://api.dataatwork.org/v1/skills/6ea4465d0add468565dc580d1fcaafb6/related_jobs reported status code: 404 ; reason: NOT FOUND
+2021-01-18 08:51:08,338 -root - ERROR - name 'url' is not defined
+2021-01-18 08:54:35,689 -root - ERROR - Problem with RequestBin reported status code: 404 ; reason: NOT FOUND
+2021-01-18 08:57:46,507 -root - ERROR - Problem with RequestBin reported status code: 404 ; reason: NOT FOUND

@@ -1,0 +1,954 @@
+1;91e03483b47fc212441abba3acf5a4aa;Computer Hardware Engineers
+2;19a7f05a1ba98db9e72086ebc8bd3ae0;Electronics Engineers, Except Computer
+3;b8a5203799a5b6a9164b73170777fa11;Automotive Engineers
+4;351a52f8a687142e32acd0b6c331e61b;Aerospace Engineering and Operations Technicians
+5;84f4c3f6e9e59cf9c4a840f6b5f2ebb3;Mechanical Engineers
+6;43b10484b2a8474bbeadf9e4b2464fb5;Chemical Engineers
+7;49e729dc2e83ba4941a1df269602401f;Architectural and Engineering Managers
+8;38be822111369dd3b5d4036e88baa6b3;Nuclear Engineers
+9;35599e2bf5c81b98e0d2a7bc55afa32c;Transportation Engineers
+10;f683a293e75b9170d86b31e85f92a55f;Wind Energy Engineers
+11;471a3a4e2e2080042e6d6be350c7e1e2;Mechatronics Engineers
+12;b2bb7eaa9fc7d962b983a50e23942161;Electrical Engineering Technologists
+13;82d07c04a826d1fd661b51f0d0f06d03;Agricultural Engineers
+14;7c6802689db530a4ef52e6671d954b9d;Petroleum Engineers
+15;4d2d036c09d1d5ab086e84b30bbd0dc0;Aerospace Engineers
+16;db034535c6a4111569df7165e640ce6b;Water/Wastewater Engineers
+17;25dcb4424b9107383f7a28086b973496;Manufacturing Engineering Technologists
+18;0a4529146d58600e462f897f2a8cda06;Nanosystems Engineers
+19;97e60b0f43f16e6fe54c963b221304a0;Fuel Cell Engineers
+20;669874cfc6a03e16ca6ad0ee92f0f0d2;Photonics Engineers
+21;20c0760df18dc003ab52234c720231bd;Manufacturing Engineers
+22;15088c54fb6551f92f970a9d4a31da2b;Mechanical Engineering Technologists
+23;c3f49ffde8fa0d90b8f03f0e9fdb3961;Electrical Engineers
+24;f5f1e663fe9ada7003426d2610e9f9c9;Materials Engineers
+25;add73e14e5f5ba6bdfcea77fae3f38c7;Fire-Prevention and Protection Engineers
+26;b7e6c5c9e07aec43b63e76f6f58459b3;Civil Engineers
+27;733db53975a4cd8ed7bf6c4e985b06c0;Marine Architects
+28;adfa49a6da7a60f450eb23d37dcf0e3a;Mining and Geological Engineers, Including Mining Safety Engineers
+29;4a44c192e4e87f26d68b6f0f94d0adb5;Robotics Engineers
+30;6ef517fbbd53b14636c7fd4ce3f4621a;Traffic Technicians
+31;48e0db037e584505f5cb55417901ed09;Engineering Teachers, Postsecondary
+32;be6d0e0667615efb35351cb4e228f424;Radio Frequency Identification Device Specialists
+33;02a4e9b31b9291362b1b14d72f59b004;Marine Engineers
+34;63a5e2ccaac29c8829dc5c18a1359251;Environmental Engineers
+35;17abcaa3563a9bcd1338ed4080027078;Biomedical Engineers
+36;7f7c519a46a4525ed804519554058306;Commercial and Industrial Designers
+37;6c8aa632d45cf314e8ec807a039bf149;Materials Scientists
+38;96988aa7ef4fb9f6a1d881da0c7c266c;Energy Engineers
+39;249f733e59a413fc5daed00ba2b81ac3;Biochemical Engineers
+40;a8a63375bb44c443b85e56c17cf567f6;Industrial Engineers
+41;48698fbb9143f3f0aea52fb75e226c21;Industrial Safety and Health Engineers
+42;b14b88edf018916fcb97448228b07a99;Electronic Drafters
+43;82b2b86fb5ad76a0346b051b1442e579;Water Resource Specialists
+44;d232ddfd1ecc881ed30091191acbf43c;Electronics Engineering Technicians
+45;d7bf2f5559fb019c149303a3f0048ae2;Electronics Engineering Technologists
+46;3423f084bd0a5c237bfd07ae210317b5;Solar Energy Systems Engineers
+47;f18dd4cc087cadae7f229e459f7a9331;Product Safety Engineers
+48;fbcacb6297f623799b1e01d7dd62ce6a;Surveyors
+49;4751f975c16158b9566dd65e088001e1;Industrial Engineering Technologists
+50;ee54316a78d245cb649b615364b7633c;Electromechanical Engineering Technologists
+51;282f8a432164975fa0b465d79ef7472d;Mechanical Drafters
+52;6245e2b254db226eec7c31ca738971c3;Computer Systems Engineers/Architects
+53;5b4be21d500041f554f87d8a57129979;Validation Engineers
+54;5e618fbfb1206c29ad9b4c3e1d169ba5;Electrical and Electronics Repairers, Commercial and Industrial Equipment
+55;9e5a08ea475ee62b5f0d56fa88f4d1df;Robotics Technicians
+56;e991de065997b9d3a0dc3efd971da482;Mechanical Engineering Technicians
+57;c2b6a81e568828172e44cae236db55cf;Architecture Teachers, Postsecondary
+58;5e865a0e4ec4d7fb835002e0573e7d4b;Physicists
+59;7cb5792818790eb8c39030aca67e5494;Electrical Engineering Technicians
+60;0806c62207afd02a8c62aafbeccad7b4;Industrial Engineering Technicians
+61;fd58273323ffd1fd85c98abd4836afb6;Construction Managers
+62;1581e8babd485c1d5e099d7be40f0a96;Electrical Drafters
+63;42d6c1f242d1441206f3a52d45a4721d;Solar Thermal Installers and Technicians
+64;f19828e96f8e08c7c75795dbaf162047;Tool and Die Makers
+65;a2dd05e458a5ecfb57cb6e6b3fbcc0da;Logistics Engineers
+66;29ec6967b6f4fe6a07c648f94effe563;Hydrologists
+67;56c2b37e8af5f0a7d99aa7388eee7cc9;Broadcast Technicians
+68;eac4fe3b678305cac8cae44c065a2b73;Human Factors Engineers and Ergonomists
+69;bf7d575117a6608ccf6b34881e41e1fc;Biofuels/Biodiesel Technology and Product Development Managers
+70;ad7f545d458070129f3ced2d13467813;Software Developers, Systems Software
+71;8b248611f13077324aaabc3f9b7d521c;Geophysical Data Technicians
+72;6c1be0f229a86e6a30da20c02e07c577;Radio Mechanics
+73;d10cbf12d9809502646a5bfecb067abb;Photonics Technicians
+74;d0c1b7cb622e00e98a406b22d22167ab;Ship Engineers
+75;83037174f8d6d964b83906c6448dcbe3;Radio, Cellular, and Tower Equipment Installers and Repairers
+76;038ffcdaafe6074ad5863b5b0927553b;Solar Energy Installation Managers
+77;287f274efcce450efd532dd701e5e8ae;Architectural Drafters
+78;793878feb6e0998567536ccbfb44f456;Electronic Home Entertainment Equipment Installers and Repairers
+79;b917cb397d5b62f7c7d43f0d4313462f;Civil Drafters
+80;b0d02989faae9585ee1df7eb036585db;Civil Engineering Technicians
+81;98de71a2b00a1c9d904ea3465884889f;Manufacturing Production Technicians
+82;48aa8cdb4db8481943f03037d256ccf1;Security Management Specialists
+83;bb6a9df39a03af73f9fb564cbd30737e;Geodetic Surveyors
+84;ccd718bdc374dc0535f70cacb39e899a;Industrial Ecologists
+85;35face00c8f385676a715d112d4e7efb;Cost Estimators
+86;66235e1535acdda1c1cb2a9a2fe49ebf;Geothermal Production Managers
+87;ec77782d2ec3720b5e7ea87e59f2d90a;Aquacultural Managers
+88;00a41a610b10853ae718fdcd99eb16b6;Government Property Inspectors and Investigators
+89;a8d84e1293241b76325cd69ad3f233ac;Biomass Power Plant Managers
+90;974d3fb78b871ead158cf91bfdd2e1b2;Computer Science Teachers, Postsecondary
+91;64ecec08db128cd8d2a8fe1e364dad95;Avionics Technicians
+92;77f4628625a6108861f497ee6ba2ee4b;Model Makers, Wood
+93;bdbf30e95939c7ffd556f3a5a97fdcd7;Sound Engineering Technicians
+94;708f0ac440281386dd479b4c2f02aff7;Construction and Building Inspectors
+95;6b6e7eda0f21fd2d8e1edf2394523743;Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic
+96;236cd8dd3f054f5d040bd0bba3603a91;Environmental Engineering Technicians
+97;44476e5884bc0c4b31e0b7716411a771;Wind Turbine Service Technicians
+98;3b094d3cad676024664ed40c5d95cb2e;Telecommunications Engineering Specialists
+99;2f766c4eee4020dcf8258f22a36cf729;Food Scientists and Technologists
+100;4a9270b7b3661523b86770b7088c8f1a;Surveying Technicians
+101;18a53d758a1ae11622c56df6bb176315;Industrial Machinery Mechanics
+102;518f912e2b4ec11f27adf57e9d3295d8;Occupational Health and Safety Specialists
+103;1458f7aba7fa08b3920d2836d95ce518;Sales Engineers
+104;b8fd253e0c813e96e3e902920aa642c9;Aviation Inspectors
+105;f8ac13032d585199b3cfe4c3362f8b0b;Electronic Equipment Installers and Repairers, Motor Vehicles
+106;9d1794e59aa96e732a9021bd1a80e9f5;Solar Sales Representatives and Assessors
+107;6261988e885c4f30f6211bda9c319a99;First-Line Supervisors of Mechanics, Installers, and Repairers
+108;3c67a4e8074903eee2ab502c88c05f95;Automotive Master Mechanics
+109;3743e28a587c5e3b2c5b3793333db9a5;Software Quality Assurance Engineers and Testers
+110;c1a1c973d3f966721f3ebb32f5d5e31f;Architects, Except Landscape and Naval
+111;95de8dd04ff20b713367c9ae9c1dc221;Manufactured Building and Mobile Home Installers
+112;23641a1cc235ca241bc2dbf84375cb4c;Patternmakers, Metal and Plastic
+113;7f606b7268543c7523bbc9c6983b97b9;Brownfield Redevelopment Specialists and Site Managers
+114;7a48c828ef9073a9ec6551b1dd8def48;Landscape Architects
+115;8aaea3bf579df2a26196ea0d31040e4e;Non-Destructive Testing Specialists
+116;338335a37b1adcf365597f0764e4b785;Nuclear Power Reactor Operators
+117;7b42cfcc4049607c4585be52be2a7c8e;Prosthodontists
+118;9f07202082ce5945f125f3472a753789;Computer Network Architects
+119;b9e3d5d53d13926f1acb4f3227fe67cf;Electro-Mechanical Technicians
+120;8c49f05753c0f56aa3a11f9e679d69f4;Medical Equipment Repairers
+121;3955232f02ec07a53f7ddd62a24f6045;Mathematicians
+122;fd84817f0d5646abba1fd338b78b284a;Industrial Production Managers
+123;4897f783a208eaf2e0f14fc1f552b334;Remote Sensing Technicians
+124;f9e3c7eb928c19cdcc7c234ac22f9181;Dental Laboratory Technicians
+125;ebef83a14648484330a64a7a55d61fea;Refrigeration Mechanics and Installers
+126;848fececfa689df79b67859c41d06d55;Bicycle Repairers
+127;db88b84712bf44baaedff0d869c4f556;Remote Sensing Scientists and Technologists
+128;8908a580adb429c507e29b07a6d9c5bc;Nuclear Equipment Operation Technicians
+129;5d27912a4f587b4083b352c1e7b65dbb;Orthotists and Prosthetists
+130;048ff2104dda3c986a5500358c86367a;Physics Teachers, Postsecondary
+131;26df8ecd5f8006d224d49c78263875a9;Computer Network Support Specialists
+132;6656e4d94296a703b681dbde920b0ae0;Electrical and Electronics Installers and Repairers, Transportation Equipment
+133;5e734a77cd633a232f406e79f7807f6c;Aircraft Mechanics and Service Technicians
+134;74174f25fc3baa0ed22f86a1a5151245;Geographic Information Systems Technicians
+135;3f5f5371159c76797d345b39d038cf2e;Soil and Water Conservationists
+136;18ecc90f16385db6f953724d38387202;Geoscientists, Except Hydrologists and Geographers
+137;c2de4bc96a48845439e997bf41e8fe51;Service Unit Operators, Oil, Gas, and Mining
+138;b4155ade06cff632fb89ff03057b3107;Chief Sustainability Officers
+139;7ef30a5b2e0ec04db4ad4d5b1d354c32;Information Security Analysts
+140;e8cc5d1b96a319fea2779d96df63d00e;Technical Directors/Managers
+141;2c3a5687d0a23cce8edc302936685eaf;Riggers
+142;64304ac08cc341f1a70e973ee7089e66;Power Distributors and Dispatchers
+143;d7f09579cb56c6aa9beace7d9aac658a;Camera Operators, Television, Video, and Motion Picture
+144;bf45a58f18e6fe2e8cf2476bcb40f404;Computer-Controlled Machine Tool Operators, Metal and Plastic
+145;753caedf8327429ae7038041172ba65a;Sailors and Marine Oilers
+146;c694b1fbf0bd19efa780497ccb70638e;Computer and Information Research Scientists
+147;596226d5f9ef63de41a852826d483d19;Database Architects
+148;b9eb07b3532df0ec851bec33835569d3;Explosives Workers, Ordnance Handling Experts, and Blasters
+149;3d7a53fb5a27e2ede5e2c74fd6c87f3f;Mobile Heavy Equipment Mechanics, Except Engines
+150;ba1c2b2e5482ffd93b922625e3b91e0c;Patternmakers, Wood
+151;bab6b228ad976cd2624acbcfccb8ad9b;Geospatial Information Scientists and Technologists
+152;7bc8605ff5e6f9ba23815742be285fd4;Elevator Installers and Repairers
+153;1c7c66201de1711c602c15173c6ed842;Watch Repairers
+154;c1a6a896cf42c8854e949015b7660e26;Occupational Health and Safety Technicians
+155;77f1d647dabe128e6faa0b398a2771e2;Millwrights
+156;72d8102a88c284fb83d4247877e1504c;Astronomers
+157;e798e53604fa324039c17f5f8fc2bb0d;Bus and Truck Mechanics and Diesel Engine Specialists
+158;8e214a6c1b78a940cd4deae3c4f1a658;Solar Photovoltaic Installers
+159;40978f59532729b8f20a53dbd5cfa8d3;Environmental Science and Protection Technicians, Including Health
+160;737f1d855174d2dc520e0054053fa051;Directors- Stage, Motion Pictures, Television, and Radio
+161;887855db59dc16cd99593b47f94ac9f2;Camera and Photographic Equipment Repairers
+162;cb4908b3b8f7daf77cc1fa12888b2684;First-Line Supervisors of Aquacultural Workers
+163;09f24700985b5e2d873fb7e8888bf98e;Motorboat Mechanics and Service Technicians
+164;97a695e8c5b83d9926f6db600f49c918;Environmental Compliance Inspectors
+165;0148f61d4227497728ce33490843d056;Computer Systems Analysts
+166;e52ef9854a344e8e8707e7e536feac4c;Electromechanical Equipment Assemblers
+167;cc5e0648f0d26ae277b5e860f4ee50fd;Audio and Video Equipment Technicians
+168;650c8da2985b3d4bfade0699cfaebd29;Sustainability Specialists
+169;34a97446e2dacdab574ececf0bcd26e8;Operations Research Analysts
+170;9678186f09525b21035e1eefdb0be39e;Set and Exhibit Designers
+171;288673183df1c7d9c2431d6c069f98d9;Chemistry Teachers, Postsecondary
+172;b557b775d63ba8e752312f42965f73b4;Model Makers, Metal and Plastic
+173;b9395a119c7077348cae229539c6407a;Conveyor Operators and Tenders
+174;377201f21bd45db03fe2d1e7c1aef319;Transportation Planners
+175;e57affffa2ea82c64d881fe8bb6de209;Forestry and Conservation Science Teachers, Postsecondary
+176;5d8ab002919055e5368e1ef63da1ebb6;Glass Blowers, Molders, Benders, and Finishers
+177;4a1e1f3a2605ae74bd149dad3ada9d11;Chemists
+178;aece8c7562b8de073aa069c97aa8a610;Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary
+179;798d89c4c8d64b3087404377de4e0aa3;Electrical and Electronics Repairers, Powerhouse, Substation, and Relay
+180;de928511e43820fde0dbc35576c8c8c0;Water and Wastewater Treatment Plant and System Operators
+181;66902509b75858d57e9b4c3043de1208;Security and Fire Alarm Systems Installers
+182;8ce491d9a26c7060fe59a4fbe95981d4;Chemical Equipment Operators and Tenders
+183;09ee343efed5751cb9963217ad2e423e;Farm and Ranch Managers
+184;76c931a0b0185ff1bf3f38cf72c1f007;Surgeons
+185;f00c64856ca46c923ad020db4ef96aa8;Plumbers
+186;645f264fd114128f68e8cb7efa2f72ed;Maintenance Workers, Machinery
+187;db2d675a811f1b5b8f513e6c31af2fc5;Biochemists and Biophysicists
+188;9bc8ed0e7fbe7a61815cdced4cb639c7;Computer, Automated Teller, and Office Machine Repairers
+189;3d83e056c0f0801e5e635bcfab433b3e;Telecommunications Equipment Installers and Repairers, Except Line Installers
+190;9247b387de88548de65e18e5bb6de753;Mechanical Door Repairers
+191;adbc2046a7264152d61d23ecdc1606b3;Software Developers, Applications
+192;a2743a5d8783d1c72a6c7895521018c0;Automotive Specialty Technicians
+193;7a3b799594f40baa1525ffe0135b3e74;Environmental Restoration Planners
+194;61a3b38225c4be64e1eeffab2929be71;Cabinetmakers and Bench Carpenters
+195;2cc6805839007473126380e042bb0ed1;Energy Auditors
+196;05622c1c6c44e774821121ef8c93fef9;Precision Agriculture Technicians
+197;091ef1e1e3ecd45facbd44f2962c37fe;Reinforcing Iron and Rebar Workers
+198;d72271093395fd0e5f645037b6b68e70;First-Line Supervisors of Production and Operating Workers
+199;64e0797fd3d273628d6a59581494e39f;Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+200;0590e549d1f7728950d33725ae11909f;Mapping Technicians
+201;f2808539fce687d3bba5c65d2427ad20;Environmental Scientists and Specialists, Including Health
+202;cecc13638738a8c61bb53e62d2820351;Signal and Track Switch Repairers
+203;9e8f2f7816fff1ce4006a67d6ff58cc5;Foundry Mold and Coremakers
+204;9c4fa3af527c538e345640a28f2d0586;Computer User Support Specialists
+205;af9c7f8edd112f2050a004dc2e7f96de;Boilermakers
+206;63ca5b56c2d6c54dff080b3d77927da7;Geological Sample Test Technicians
+207;9cf7eb8f7c3ebd1823f6ecc7c824dc27;Forensic Science Technicians
+208;de40879dcd83a935f5564309a3fdfc3a;Rail-Track Laying and Maintenance Equipment Operators
+209;f132feb3e0a85d641e543a32de63615f;Engine and Other Machine Assemblers
+210;2742f41cf2483e2d04d1c40f15adf6c0;Pipe Fitters and Steamfitters
+211;f5227b65ca90a183fb3ca86377a5efa4;Electric Motor, Power Tool, and Related Repairers
+212;49a7ca68242e9a9a818a74d555fb834c;Welders, Cutters, and Welder Fitters
+213;7b1cfb67296d405f0b783e79bb79e2e7;Heating and Air Conditioning Mechanics and Installers
+214;5f08fb90f9c24f7151232f10a9a2440c;Logistics Analysts
+215;7c6826377e3a22b75c33c4e28f34a730;Range Managers
+216;5649cef926974beb058fae6673248206;Radiologists
+217;53ae293ce69197b615c264a91d293e07;Aircraft Structure, Surfaces, Rigging, and Systems Assemblers
+218;a5773315d55245d7a3271314a564c32f;Web Administrators
+219;bbbdfc6e22bc020317a39b98b2c4fd7f;Video Game Designers
+220;c9b22af74071153203bd588bd45340d9;Information Technology Project Managers
+221;473b5eb044d8aaadc596a1dc5ae81444;Biologists
+222;b90ca4df5690002377a7b0f1f3d40781;Database Administrators
+223;c4a063266888b400e8bc2d29c4d56580;Bioinformatics Scientists
+224;ef5648bb9ca2828734ba79361cf7f356;Foresters
+225;a366ed6174925b6a234a26ddd3946b6b;Instructional Designers and Technologists
+226;35c08d4a9649905753a08684a8d940db;Electricians
+227;a92c3f107b50a01830a9f0759d5c882c;Outdoor Power Equipment and Other Small Engine Mechanics
+228;22ba37606e876737e6ea3fbb165d9b0b;Medical Appliance Technicians
+229;2e76a483338079ade73e48e686b23720;Technical Writers
+230;12b6da6d5d652a1636e40ce5c6b41669;Insurance Appraisers, Auto Damage
+231;ee4d2ffb5aec2e5bbfe9f4fb716b0664;Sheet Metal Workers
+232;1dc10c40630130db5e2682a487fdae48;Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters
+233;19ab962c19b9eeb748669230da60dd0b;Museum Technicians and Conservators
+234;0581dd6e7d2b00f3d449837e60ab76a0;Bioinformatics Technicians
+235;28164fc061eee1001f3f32f617d30d4e;Telecommunications Line Installers and Repairers
+236;3a2ec46cf35cde760adb19f8382d2578;Security Managers
+237;dee8d76e8c2440c128508566e1c57ff3;First-Line Supervisors of Construction Trades and Extraction Workers
+238;3cfae6f11eeedece32782b72d96e947f;Farm Equipment Mechanics and Service Technicians
+239;75a75c165df6317d601e1bbca3ec29b5;Biomass Plant Technicians
+240;0140cab78a4895767ddb58ab6e09623f;Municipal Fire Fighting and Prevention Supervisors
+241;a048aef82838cc262893b59d7c509bd3;Geothermal Technicians
+242;a9241a7e7bd0a59ec33fa7013785d944;Machinists
+243;2163b9b215293604fe12aad7e6e6cfb1;Agricultural Technicians
+244;f34a68bf174d03381e4b8c295104512b;Weatherization Installers and Technicians
+245;3d76d16fcde1c087c0c0f5ebc23c9b9d;Logistics Managers
+246;48cbe62bf0e28e06f6564da7e03c438e;Natural Sciences Managers
+247;c9e068785ac3ff8f3db7fa356d373851;Medical Scientists, Except Epidemiologists
+248;d045e9fc1736688f3378d4060658fb11;Atmospheric and Space Scientists
+249;022f8f4705ff7883dfc135921692263b;Helpers--Carpenters
+250;112725204ddfce0d21b67a60b1c59cdd;Structural Metal Fabricators and Fitters
+251;94c7b8b8276fa061eac26004a324934b;Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders
+252;103e8a2e4430f2e3b6be95932624dcba;Gas Compressor and Gas Pumping Station Operators
+253;1b135bfc7ada14a47a7dc7d616256467;Emergency Management Directors
+254;ac29826488d311da8f633e0e6a3b2b8c;Audio-Visual and Multimedia Collections Specialists
+255;ece83aadf806d879726f18e9e7ce0057;Paving, Surfacing, and Tamping Equipment Operators
+256;d9dfb9edf26b8b1a92befcfca049811e;Purchasing Agents, Except Wholesale, Retail, and Farm Products
+257;3681f27c3a41c41af144aae1acf97f16;Tool Grinders, Filers, and Sharpeners
+258;6caccdbef2d375a46b1297e5cbc92651;Logisticians
+259;7511288fede99dfde6a602479da0c852;Stationary Engineers and Boiler Operators
+260;5911c30ca70be74ac3668699af365388;Marketing Managers
+261;f6784c4fb9e3e49656b35cf6029207cc;Cement Masons and Concrete Finishers
+262;6904447c8a08ff285329df04b094ee3b;Purchasing Managers
+263;2ca33f562683f0dcb5aa7b5b2d5aaffb;Freight and Cargo Inspectors
+264;9bf4e2a1787a14439d9321758afce0bb;Energy Brokers
+265;b4089b99c370d3ae60320d358e09db44;Forest and Conservation Technicians
+266;a11c9aa7f3ce10e0efd9204ae6c982fc;Timing Device Assemblers and Adjusters
+267;94e96be0cd4f27156ba0c34334a74da6;Document Management Specialists
+268;c1ccb350b3d104c08d13c63d3cdd4ea4;Climate Change Analysts
+269;ce1c0fc273d3c803e94a73ff0b54816e;Radiologic Technologists
+270;5b1dee107d35ce90aff8bd4bde3d66f1;Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+271;34634dde5feb07304da42a77536965e9;Ophthalmic Laboratory Technicians
+272;e003dcefce6cdf9f8c318e2db134d14f;Magnetic Resonance Imaging Technologists
+273;0a2cfbc26f09b27b86a0aa4b05841b87;Fire Investigators
+274;04d7ae77a130c63c56bdc9520e734225;Locksmiths and Safe Repairers
+275;02071e0822753b336097870b84acedc1;Cooling and Freezing Equipment Operators and Tenders
+276;54aa2af6b63fe600ecc2150040ef8321;Nursery and Greenhouse Managers
+277;a5535a736abfee09d013033a6f8094a3;Construction Carpenters
+278;e3142246ca8392c9c96dce5a86b92781;Maintenance and Repair Workers, General
+279;58c70b472e197ca7f1795b7c4fbcdc83;Airline Pilots, Copilots, and Flight Engineers
+280;bb4e5066e69e4228172b4850d2a920f4;Computer and Information Systems Managers
+281;1ef43f6cb86a86fdcbf285e69c91803b;Film and Video Editors
+282;e1cd70691251d1ecec5af0625391357f;Semiconductor Processors
+283;36b8cb5c52318c6a2e2949e5b1b995c6;Mates- Ship, Boat, and Barge
+284;88f7abb81448bfaa3c2ce92e593854c6;Mathematical Technicians
+285;314c065f7451c073769cf8a6a77aae9b;Environmental Science Teachers, Postsecondary
+286;4fa25ffc60249ca5dcd9b008d889d506;First-Line Supervisors of Agricultural Crop and Horticultural Workers
+287;41ca96f3b0643015f1de4198820d63c7;Pile-Driver Operators
+288;1704b4b5daf8d75ad95a6946bb5a0ae7;Drywall and Ceiling Tile Installers
+289;d113662902ce7ad7aa8a2180d224758a;Control and Valve Installers and Repairers, Except Mechanical Door
+290;5775a84ee75a3fee1e3c8589b51d7f62;Commercial Divers
+291;a9b7962862954498b9314949756dfa4d;Career/Technical Education Teachers, Middle School
+292;f34cb72473052ade343f744b9ec98eb4;Nuclear Medicine Technologists
+293;36f3dde4618b0b7d0fcc58849299076f;Urologists
+294;f886200409807cf6a4ea5b4ee6b94b04;Tire Repairers and Changers
+295;f409f5ab680303ba75458a7ace1c2562;Wellhead Pumpers
+296;1d7a0383237e33260a41d4dd8207bd90;Supply Chain Managers
+297;03b1bb504e616611ef2bcf5aa2b785ee;Business Continuity Planners
+298;b96501c075b2c8ffdc19d149200092e8;Construction Laborers
+299;12abd48c41d1d6d6c65de2d93cbb28e3;Helpers--Extraction Workers
+300;9ad04dead505a8ac01eccb980035295f;Cutters and Trimmers, Hand
+301;dd784b7c57bcdf1280deb3b416afc894;Ship and Boat Captains
+302;5521e4c23530e9754480921aa99624e6;Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation
+303;6e0a512462f2f79046497294da0a4c21;Orthodontists
+304;162bcc6e5da22ba5ddde1d8b3a9bbce5;Respiratory Therapy Technicians
+305;19f737b6705bf86043b5b3b01210e9d8;Rotary Drill Operators, Oil and Gas
+306;20e37e9d5a10a1ea26050cd0317eb32d;Recycling and Reclamation Workers
+307;f8754548ca65924574c1e9a2633a9034;Forest Fire Fighting and Prevention Supervisors
+308;6e9b18eea207f589c25dbfbf73c021b2;Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products
+309;a7b255faf5c2a36d5fc91e3d77a2c341;Dentists, General
+310;146bd2140eeb02d21eca0f3173af7b5b;Roof Bolters, Mining
+311;c245133226963e7c736cfe98aa02d4d3;Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+312;e8a90fa14c7093ecfa0aacd9a09a8933;Soil and Plant Scientists
+313;e361bb1d997e4c215fd15c646be00112;Brickmasons and Blockmasons
+314;e125c5455a8cede3ddf72bd9a46fdcd1;Highway Maintenance Workers
+315;9cd8104cba9d34c80923744a556bf2d9;Continuous Mining Machine Operators
+316;c64922385e2c8813ffeaa43e7fec669a;Operating Engineers and Other Construction Equipment Operators
+317;e89b2fd47e321fd62e11bf512441fe4f;Earth Drillers, Except Oil and Gas
+318;04f9dc0a128411dfa3e9ae67d8d25fed;Lodging Managers
+319;0571b39ea61a50f570cfe9f95f64bb4b;Paperhangers
+320;ca87096f61d35d6ffecfaa4b7b252db0;Pipelayers
+321;154f80c0bbd9ac38883295b02e2b6edc;Roofers
+322;9c95d640f2858f0b7fc7f8b60c7637f6;Jewelers
+323;74ea93ca3024c3d00d6709ae9e099ad2;Hazardous Materials Removal Workers
+324;1fd6a2d209d066ee9ffc44fc8ed83d5d;City and Regional Planning Aides
+325;25bd177078cf3593f9c564249e7c6daa;Molding and Casting Workers
+326;47a4b1fdecd93229eb8bb3b1953b13a6;Physical Medicine and Rehabilitation Physicians
+327;ac81f6e77b23ccb7ec3359ae4b31a052;Pump Operators, Except Wellhead Pumpers
+328;3660dac8873ed06aa620717688dd4ff1;Informatics Nurse Specialists
+329;af5a7c9298e2bed61fd7aa88749463a3;Musical Instrument Repairers and Tuners
+330;676fd7aff018eb506fdb9c15ed1e22f7;Forest Firefighters
+331;e2fbbf131d36f5558b77b547a43d63db;Automotive Body and Related Repairers
+332;2e2c0830c5ddcca01b0020ae1bb641a4;Plating and Coating Machine Setters, Operators, and Tenders, Metal and Plastic
+333;45e0754b3065fb24d04af08fb26e7752;Petroleum Pump System Operators, Refinery Operators, and Gaugers
+334;a2ad3684f7fd73358ccc9be666dc41ef;Management Analysts
+335;f5b78bec57652bf4a0e292badc9255c4;Career/Technical Education Teachers, Secondary School
+336;9d3f4e8445f4f0ec7d9a556c6d330d40;Obstetricians and Gynecologists
+337;d51079eed904eb12c2a5399cc67210b1;Commercial Pilots
+338;7cded0610d363b6fa7915a3adfd8cb31;Loading Machine Operators, Underground Mining
+339;db171953040f1d0faa838ae4fb3b7c3f;Health Specialties Teachers, Postsecondary
+340;e3feb53833107fcc30cf4746ba6605f1;Neurodiagnostic Technologists
+341;9725b3d08dc0f2afe0c46cd15ebdc1a8;Rough Carpenters
+342;27cf2226730aca9526eac4e00696642a;Mixing and Blending Machine Setters, Operators, and Tenders
+343;e9ca8f07786b6d6eec69e42e5951707d;First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers
+344;e3930829837d4588153bfe390af7e381;Segmental Pavers
+345;27274f599462a95966c6d9b75f961469;Helpers--Installation, Maintenance, and Repair Workers
+346;c0d17a852cb248c171d3f870056088bf;Metal-Refining Furnace Operators and Tenders
+347;ee8713f6017bf57c9c9a9ca86d51c1e2;Quality Control Systems Managers
+348;95fc93f1cfaad4a4b33693fe3a64c24a;Web Developers
+349;a38d3f047f3045c0c4688f1d68c9c4c7;Network and Computer Systems Administrators
+350;a6af621fd82b6f7ec614a8049b85010f;Ophthalmologists
+351;0074681899cdc50da8cad0367871731b;Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic
+352;3f46a023579d8a3747bec44be0027320;Layout Workers, Metal and Plastic
+353;ee7bbf1197bd4916a6413acc8cc38d2b;Gas Plant Operators
+354;0c00468f11988c7372b7cee413931023;Hoist and Winch Operators
+355;9656fa2dc39e9643c00a45858e0117d0;Business Intelligence Analysts
+356;330ee83b06ca2c6a1f1aea07d6fde34f;Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders
+357;c82e3a3c5e5a0824914be7ef5dff1e44;Airfield Operations Specialists
+358;f6d0f5efd4c15fc7d5bb07a427fb870c;Molecular and Cellular Biologists
+359;513649fcebad161d7e80488537847967;Motorcycle Mechanics
+360;7e3ebcc06743ded13e8875efcb5b3bd1;Transportation Managers
+361;70267503fdba26e78c0ba74bd39ee9a4;Animal Scientists
+362;876182c088ff798ff7b7734572e2ce06;Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+363;2ad4d8628d5b848373a05dfeaa5a13eb;Program Directors
+364;e382576107478f6e61adcee66b79ada5;Nurse Anesthetists
+365;25ba86b181ab30657752810829a68afe;Fabric Menders, Except Garment
+366;306db1c7b107844442875474968a66ed;Machine Feeders and Offbearers
+367;7470171b25f50df9361eb1a0afab6ff4;General and Operations Managers
+368;f41319d7523dc8a007a7a8634a268721;Recreational Vehicle Service Technicians
+369;72b1f6c89d7bd1db4c69141f93022b5a;Municipal Firefighters
+370;cb400e5ba05433efccdb901077b8fff6;Fire Inspectors
+371;740eeb4b0fad82f30a1c37551d75dccf;Painters, Construction and Maintenance
+372;9517129677d5df18c17b9cbe0ac234ca;Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic
+373;0bb6dd7487841713cb47ebaa4ca8973a;Helpers--Electricians
+374;dec027ddbabce17438b293b111ba26d8;Food Batchmakers
+375;92e3dcad036b74d0c4aa80949d0f6a62;Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic
+376;045d11c8f045f01fb08614f135e6157d;Crane and Tower Operators
+377;eea1c2991be033c2682be2dd0aeb9dc4;Regulatory Affairs Managers
+378;cc5628ef88d8f978722f42b491fe2705;Paper Goods Machine Setters, Operators, and Tenders
+379;325e2251e20170928426473156bd3c48;Statistical Assistants
+380;e0d50c1b141615155ff9e93f5f44df18;Fiberglass Laminators and Fabricators
+381;a89c3555313f0ae51f4134a8a2af20b0;Precious Metal Workers
+382;a969f8dd7d258bdb23e6bda12dee2cab;Biological Technicians
+383;449cb90330c55a0b001b2677d457ca44;First-Line Supervisors of Logging Workers
+384;9bfeb79754db580ccf84d7f79e442e6b;Structural Iron and Steel Workers
+385;3da7b9998a84943dbdb6cf47d904e508;Textile Bleaching and Dyeing Machine Operators and Tenders
+386;0b0c94f09f8afa4086c2bf44bd1bbcc4;Computer Programmers
+387;32f813c13e1d849235e0b95624525449;First-Line Supervisors of Housekeeping and Janitorial Workers
+388;c05d417341d4b3c89106a12a1e2dad8a;Refuse and Recyclable Material Collectors
+389;08299f22c605e5263670545c5b9f7bd0;Interior Designers
+390;9317f943d55e0a62eab871d84971aa40;Audiologists
+391;9792fa98edf2cfde5a926454b3540805;Floor Layers, Except Carpet, Wood, and Hard Tiles
+392;bc78429d38ee487e34bbe423e632ca9e;Potters, Manufacturing
+393;00288803f3bced96024a46ff98ccd12a;Recycling Coordinators
+394;c9e8744e1c0625b492ea57880481e589;Microbiologists
+395;576b95982469f489141d29bd44a26901;Radiation Therapists
+396;d6ee0aae22eb57917be494347f79eaab;Medical and Clinical Laboratory Technologists
+397;fc4ee61f733cdbb2c04f4693075a202d;Cartographers and Photogrammetrists
+398;467c06f04aef3a303c849a3b50066f6f;Anesthesiologists
+399;4cffdc4c240a543c38141583744e42a3;Electrical Power-Line Installers and Repairers
+400;e882fe6e75691cec7921c7c715b66069;Adhesive Bonding Machine Operators and Tenders
+401;a0027102cc17450c4af6a33f755169d4;Pathologists
+402;c75f2c543a800f4e10a793dbc80e77e0;Terrazzo Workers and Finishers
+403;87fb6860c6331839f27031738b19e89d;Automotive Glass Installers and Repairers
+404;f14be7795c5db8af8ddcad205219f2c8;Home Appliance Repairers
+405;e3e046b5ea09fac1a0d03b858b2982f6;Chemical Plant and System Operators
+406;29c5cd40a4d9d02d0745c03bb8b5c82d;Loss Prevention Managers
+407;2f2bb80a9aca2cf093b0321890fbaf0c;Etchers and Engravers
+408;edecdd59dc6d5688271440cfffcb577c;Cargo and Freight Agents
+409;d85f2ef1c8e974fe805f2552f7405fb5;Forest and Conservation Workers
+410;be02e3389465d8f1d42a97383fc5fe89;Gaming Surveillance Officers and Gaming Investigators
+411;12619d3df70947cf1ecf70ff79dfde49;Agricultural Inspectors
+412;7d551d71a03f4459e2c1dc349863c1c8;Forging Machine Setters, Operators, and Tenders, Metal and Plastic
+413;686d271adf6cce61ff308e9c31cd5e43;Quality Control Analysts
+414;c4024570ea178e4321ab96bba7be7648;Tree Trimmers and Pruners
+415;a7ff71e7ad4898b769112c09f15bd43b;Urban and Regional Planners
+416;7a0e7f1fe1b78e4fc021b94db88baa53;Geography Teachers, Postsecondary
+417;9b44dbc6767274d8b3a820e133803d00;Production, Planning, and Expediting Clerks
+418;16a750537ecaff343d0e1d9ab9f5f575;Computer Operators
+419;44083a112164b0997c63ecec38144af5;Dredge Operators
+420;7dfebc1ec63f3e8d62f2b711cfa7e5a7;Radio and Television Announcers
+421;4e406365306cca47fcac72ce8d6743a9;Oral and Maxillofacial Surgeons
+422;b65aa5bc9197ec39981efe3a3e1435be;Embalmers
+423;4c1dc68c4aa0c761b3196df6bd7cb9f9;Fishers and Related Fishing Workers
+424;af25336159983727b0c0b95d25e21bff;Insulation Workers, Mechanical
+425;72dc10d40d9b06bb6838ff834116495d;Septic Tank Servicers and Sewer Pipe Cleaners
+426;d9e52b3dd6ec0dbad2316710f237ba7d;Derrick Operators, Oil and Gas
+427;f091965b355cc5df865d213e3507e995;Roustabouts, Oil and Gas
+428;361d71dd78ce5e263a54aa80efca5356;Refractory Materials Repairers, Except Brickmasons
+429;c92d51658208584e683c093950c7a885;Stone Cutters and Carvers, Manufacturing
+430;b6545b9cdfae11f07db2f476b54fe936;Nuclear Monitoring Technicians
+431;34c114a2179a5673598a44697d2fe6fb;Fabric and Apparel Patternmakers
+432;1028b80a2ce2bfb940b2198f487c6abb;Farm and Home Management Advisors
+433;c61ef0b12e7ae060bc511439a35f46b8;Chiropractors
+434;5faa5aae7102975c7eba1b43849d7363;Ophthalmic Medical Technologists
+435;b6c7e5dfd3dcc9268ba9e5de5824ed59;Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders
+436;f6f09a4c345536130f09a8972ac2a7b6;Risk Management Specialists
+437;a88d921515e40e484f67249cc7a434e9;Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic
+438;b8bb3c0ef8a17c9b516fed9ca4078885;Regulatory Affairs Specialists
+439;7771175f629b904ff92392636ca6c49f;Zoologists and Wildlife Biologists
+440;a57ac6b12fe2735a8838f2f9a42bc85e;Geneticists
+441;30d52153159b7e36fff85faba624b554;Medical and Clinical Laboratory Technicians
+442;13f8f029b858893c5c6142b2289464e7;Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters
+443;990b8179a410e7674e762e945538f021;Pilots, Ship
+444;4ac597a45db84fbc47d3b169567f1416;Tank Car, Truck, and Ship Loaders
+445;3c1e36e1553648af0189844fd7a23bf7;Distance Learning Coordinators
+446;3b6b8b96fabec82b96f92e8406c259b1;Respiratory Therapists
+447;b910e7d1435f91dd23e2cc9e42c42d53;Diagnostic Medical Sonographers
+448;ce275a7f0646e3ce4179badbd3a146c6;Coin, Vending, and Amusement Machine Servicers and Repairers
+449;59ca97a61428e6f51500c693b9b69693;Buyers and Purchasing Agents, Farm Products
+450;40d2d6f5a1dfde1a3b5ba2a70377fa0f;Producers
+451;59bf9ea30712b50a6079b72009f7212c;Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders
+452;81574c9a4740a40b2f8fd32f953c3852;Property, Real Estate, and Community Association Managers
+453;e111872533184d3a0a0dbbb5739f50c8;Team Assemblers
+454;8a99d8ee0e8ef198c9365e7c25540f83;Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders
+455;1b7a3048ca875e752dbe1ec6368e2e9a;Food Science Technicians
+456;33752593045e20b164ffe7f638dbedc3;Pesticide Handlers, Sprayers, and Applicators, Vegetation
+457;ab47aa577c644b4fff0c4bf3f6bf86f7;Desktop Publishers
+458;6fdcd2bf3c2752963a3c1ceb00d0d09f;Power Plant Operators
+459;a2f5f665fff0c2d77087dafc6da80b0a;Online Merchants
+460;29d8603a0ccea5e83ba7372e4b09ec3b;Police Detectives
+461;f0267f5d3613033a931cf00ab537f64e;Agricultural Sciences Teachers, Postsecondary
+462;c347b6af6fee754acda73978b4ba1d07;Music Composers and Arrangers
+463;9b6b824934ec083e8fc749dc8e0b6e83;Motion Picture Projectionists
+464;60f05564541dc7282cd8c07e21ed1893;Animal Breeders
+465;b3c5919df7451373d86531dc0889568f;Rail Yard Engineers, Dinkey Operators, and Hostlers
+466;6a6744b32ec3e742d6b1f9ce551e496c;Railroad Conductors and Yardmasters
+467;ab53d9444dd332bbda6cfc400a909414;Radio Operators
+468;35be23c248403b635f0bf8f2ffe5f7c6;Exercise Physiologists
+469;9c5398bf96f54ad9132d9cf5571b7e67;Locomotive Engineers
+470;27d2c00408c1cc5452cd2c91ce80cdfd;Biological Science Teachers, Postsecondary
+471;017a80588c145150d8ac4adf1f06adcd;Broadcast News Analysts
+472;b5c9339cef1d53c7da386b26e7f37cde;First-Line Supervisors of Animal Husbandry and Animal Care Workers
+473;fed92aac07a35924430a0b4212dad53f;Air Traffic Controllers
+474;dd0f17e43c3c535694f86669e9bbfaa2;Excavating and Loading Machine and Dragline Operators
+475;84097ffdff2b9cc6bf6034d6f780d4d3;Craft Artists
+476;54c8481de848220d8bb6f41ed8062489;Hunters and Trappers
+477;22b1e8b02c2d4259bf241896b5617204;Mine Cutting and Channeling Machine Operators
+478;cbecaa2f30f5578bd8d739d1670a02e7;Surgical Assistants
+479;c73f54d9dd0c98615383430f574f4623;Stonemasons
+480;067e057c4d627122d26d9c1d72d2ee55;Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers
+481;d7db2eb45fc1309e068d9c3737291770;Sawing Machine Setters, Operators, and Tenders, Wood
+482;e3f1854456636a5a01e3a4afe65a3fff;Emergency Medical Technicians and Paramedics
+483;42a06d5d0cb160d9b6dac095e80d16d6;Fallers
+484;47685ac984dc812cb400f49bcf705824;Rock Splitters, Quarry
+485;51d29a8423bb7748a35a4c0e0b727a44;Allergists and Immunologists
+486;80d35da0d5086a4c99a396029d132755;Anesthesiologist Assistants
+487;8d05e5c8df9efcc08f5234ba081caa55;Bakers
+488;fbf86fe950f72e5b194e358b56713341;Meat, Poultry, and Fish Cutters and Trimmers
+489;74004ab17f97a04d666a3f3ea09a4fb4;Secondary School Teachers, Except Special and Career/Technical Education
+490;679a7951ddca172609fea85d6255a318;Fine Artists, Including Painters, Sculptors, and Illustrators
+491;67fcdb078af3911478335d6c48cc83e3;Rolling Machine Setters, Operators, and Tenders, Metal and Plastic
+492;6c5dd86a8bafe22f59ad54f16dcef773;Railroad Brake, Signal, and Switch Operators
+493;1c624d571a1dcce75521d6aa66677fdc;Automotive and Watercraft Service Attendants
+494;7462741af8b35916f28a8a125427bc7a;Forest Fire Inspectors and Prevention Specialists
+495;3a990f589de6c5acc6d494c294ee31c8;Carpet Installers
+496;a35d3d4826e58d37da30b82728dbd1c5;Park Naturalists
+497;8fad85918dacf28b9980dbdadfc929e7;Landscaping and Groundskeeping Workers
+498;cbf98e104e5cea3f42d1d33f6ce11942;Inspectors, Testers, Sorters, Samplers, and Weighers
+499;a32b9cc78850bb0c83ad9a7cb884043d;Fashion Designers
+500;e3d7af48ea17637c2f2385c18db79724;Neurologists
+501;ed9b3120f52bcf7d22255504d2d28b59;Nuclear Medicine Physicians
+502;2e3dda0696a2540dbff6d66d0b46dada;Surgical Technologists
+503;57f014e612b1a344c8e5c0995cc55ec4;Endoscopy Technicians
+504;c7c87829ec3043862566c020d424c1a8;Police Identification and Records Officers
+505;93e4c5f26b6519e9a757839a2aa0394a;Order Fillers, Wholesale and Retail Sales
+506;c0ac4be796641359a35dcb89de7356ea;Rail Car Repairers
+507;b6e1732509bffca9985b8440c500f6fa;Cleaners of Vehicles and Equipment
+508;caa551520f21c7c220716a8f82806246;Multimedia Artists and Animators
+509;171ab20aa7c3577c44bd08b89fe1bf62;First-Line Supervisors of Police and Detectives
+510;0bcb7c96a30676513ee0d37bcd963f4b;Medical Equipment Preparers
+511;65479db407333c41a31853e324a6d521;Laundry and Dry-Cleaning Workers
+512;07955b0237c06b795099e95b3e4887c6;Coroners
+513;dd0055bc4f53143aada861d08d7b1057;Archeologists
+514;6906b80349e8c33386d8393c2f4e92a0;Criminal Justice and Law Enforcement Teachers, Postsecondary
+515;f039e927685d08d66e6c528e75c734e8;Art Directors
+516;9be03c0d93588beae752af400ea9a6e5;Sales Agents, Securities and Commodities
+517;4aaf1c1eb45dfbec87b7fc2dc5f088a2;Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products
+518;fea86e75b6ff86f198928a9a7697972b;Prepress Technicians and Workers
+519;d164f99f83321a11be7955bf9a1ac98d;Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders
+520;0960e8255e261a5698e0015cfa1c613d;Tire Builders
+521;f2d655edcac0d5bd8e1e679fed545a2a;Phlebotomists
+522;96f1cf15fe5880d8660c70f0756944ab;Printing Press Operators
+523;3c51dd292215e7f35d637a887f9c4600;Fish and Game Wardens
+524;9fa57b0bc1352defbc50d445f7a5d3cb;Photographic Process Workers and Processing Machine Operators
+525;dba5edaa4f35301e0bff15aead446ab8;Education Administrators, Elementary and Secondary School
+526;366ce2b56f0d8988221084d1d65c7a68;Gaming Managers
+527;886fd9fc4cba4ab5aa1cb6bd030932db;Medical and Health Services Managers
+528;5f65cfbdff2a13617022af0a932f1f16;Opticians, Dispensing
+529;70eb778df3e0f7b4a9f50a2bcad3afc5;Hearing Aid Specialists
+530;84e5a16e6b48cb8336031371fd3124c5;Bridge and Lock Tenders
+531;75f532f25f00a044a549033e3c0ebb95;Histotechnologists and Histologic Technicians
+532;39d2737be8f9a4d15655efd130946467;Tile and Marble Setters
+533;e3f3244ad58f52589c7f42d636884892;Helpers--Production Workers
+534;d095e588c61f022374dbb2a2f3e641ff;Instructional Coordinators
+535;570fe7664f60b83eb4b08e5d0ee29297;Dispatchers, Except Police, Fire, and Ambulance
+536;fb48c59363cd84476f0fb3a988070db1;Fence Erectors
+537;50c75269fc0ab3fa9aa71280f4ff1951;Industrial Truck and Tractor Operators
+538;6d8604b203eae18a1f477e25d4790c71;Athletic Trainers
+539;de6cdf9316acb85357fce92246f783cc;Retail Loss Prevention Specialists
+540;5e2e12def94dfc7f209137d8cc86c481;Solderers and Brazers
+541;91e0a8b080c7ab8f314528a161653b7e;Textile Cutting Machine Setters, Operators, and Tenders
+542;7340a7f8cc10cee3711ca89b868ddea7;Woodworking Machine Setters, Operators, and Tenders, Except Sawing
+543;0388af5bec97226be70c48e9caea345d;Grinding and Polishing Workers, Hand
+544;8d5cda4f00e1a7e4e00a8f66de31e2ff;Graduate Teaching Assistants
+545;c4654be0b3f42c51a8b64e1f6277e835;Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic
+546;8e929d6d26954d00c257fff338240e55;Shoe Machine Operators and Tenders
+547;a6df62fa222ed927073638402d6aa86a;Ambulance Drivers and Attendants, Except Emergency Medical Technicians
+548;20d5c8d5f3f46c0665196dc9b51419b5;Wholesale and Retail Buyers, Except Farm Products
+549;e6e951cdd361410fad41ab7f6dee6051;Chemical Technicians
+550;9549209cbeee15e758f1fbc0bcf63c00;Cooks, Fast Food
+551;a495cd15fc7f2acd0cb158d86800945c;Logging Equipment Operators
+552;08876a0be0e607e798ae5919c701a07a;Painters, Transportation Equipment
+553;bc7ff426661266f9459deeb5b141f9b6;Optometrists
+554;33d7175f5892c8874c32765a80baecc9;Plasterers and Stucco Masons
+555;8ca974ae2bf2a135678bc6938c2361c7;Pediatricians, General
+556;86635319adf35372ce12c1c1b6d29f45;Occupational Therapists
+557;d90a0bfe2ab87cf3736cc925ce24c8c9;Copy Writers
+558;ceebffa1a369da0c4ebacf2722f95768;Clinical Nurse Specialists
+559;49f41c389de52fc994d0f9d7b8e83b02;First-Line Supervisors of Correctional Officers
+560;115cf05f935eb4c8b1a1b76a5feeaf71;Chefs and Head Cooks
+561;344fc2bdb3d6c212004deeae84dd046a;Retail Salespersons
+562;af9e8cb4eb68d03043b4cf5fc166a04b;Sewers, Hand
+563;b188f6909672a9ef802d221e67ec00b6;Locomotive Firers
+564;ce6b5f1e7909951724dbfc394a3bd47d;Motorboat Operators
+565;5deb8dd23cf995fa3dd9d4a4625d4dfb;Combined Food Preparation and Serving Workers, Including Fast Food
+566;e8fb9bd0693a2cba86e3a3601cbd49c6;Costume Attendants
+567;e9cf70a5941dcfcd039e1ecdb1c80c6a;Credit Authorizers
+568;77c4577f9ab441d8aea66e32e46c92f5;Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons
+569;bcb9359057c2ca1ee6a1a4151930c4f5;First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand
+570;95bef1b4994bbed368c194d79530f197;Storage and Distribution Managers
+571;ea2d08f2932118449da8ace0180007c8;Search Marketing Strategists
+572;700e4bab461faf0ede2244c6f339940a;Insulation Workers, Floor, Ceiling, and Wall
+573;946ff18b318a4fe479c2a0635103295b;Shoe and Leather Workers and Repairers
+574;4dd3fec7daa8e00dddb77128fd455f28;Painting, Coating, and Decorating Workers
+575;e5cae6769cdc72c8a500581583c2e31f;Mathematical Science Teachers, Postsecondary
+576;2c8bf157718ff59d76468f5c1d6bc33d;Podiatrists
+577;ad9812f91f3670f1ab3420c43821eafe;Cardiovascular Technologists and Technicians
+578;781ab7c2b7780a45dcccfe04fff4f77b;Veterinary Technologists and Technicians
+579;16e7620729254d6ffe9c6e15f44c74fb;Makeup Artists, Theatrical and Performance
+580;6bfb4ca0d2a56f45f22691b506083958;First-Line Supervisors of Non-Retail Sales Workers
+581;ba239f8792a8967fc34ef469162bfd74;Securities and Commodities Traders
+582;d25bde1c10322cac557afbf57d1f18da;Mine Shuttle Car Operators
+583;2e37a49e2ddac31d4e0eda733c6249f0;Fraud Examiners, Investigators and Analysts
+584;b58281863881ea47b56e8ba4a934f0ed;Middle School Teachers, Except Special and Career/Technical Education
+585;82858983e1f73c376c53726bf077dae3;Animal Trainers
+586;7509ae6ff5fe56a68d59827f421a5017;Glaziers
+587;cd02c80ece7d9eee1955f925a578e9d8;Subway and Streetcar Operators
+588;ff815611e828a625a6dee2cb9921ba57;Food Service Managers
+589;2bd45dcdd2dffb2a8bacf7928145eeac;Geographers
+590;257a09b54c0314fb8778f510b747da74;First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators
+591;f11ff6b88b2dfb6a10020ee596cf8844;Nursing Instructors and Teachers, Postsecondary
+592;91ce5081567e0014ad927ad51f290f93;Skincare Specialists
+593;2864f5235ca0d3dddf86e580e67e1cbc;Helpers--Roofers
+594;dffeab0a680cabff4095d7c6f384ff61;Electrical and Electronic Equipment Assemblers
+595;ebf66ea29e40fe94d8f0ff7a452c8558;Nurse Practitioners
+596;85389457293e556bfd74476d73ab688e;Dental Hygienists
+597;3ef8fdf0b53d301ce3f361a6fb0bf744;Statisticians
+598;46ea05c33459ac7c565504d21ddf77d0;Radiologic Technicians
+599;d245730e6a9ede27d22af4ba7d00a808;Dental Assistants
+600;4f3909c9fa4c6d5e424ce3b64ed046ff;Correctional Officers and Jailers
+601;82d5e7daa31171e3fa9f1984cb4087f6;New Accounts Clerks
+602;f1ba6f8ec1f15d77bf52f29626264b57;Print Binding and Finishing Workers
+603;e4063de16cae5cf29207ca572e3a891d;Chief Executives
+604;b196cfab1f918dcd1cca1befa53fe5b8;Editors
+605;d1ced9c0128baf2f4af4a3d7e3e7d3e8;Critical Care Nurses
+606;f3124b7cb441561042bf37bb91adbbbd;Intelligence Analysts
+607;b77a8f48a14f178ec2c34344b07a927b;Environmental Economists
+608;623f29e3f9dc746b237c9d90aa4ee0eb;Adapted Physical Education Specialists
+609;4f943ddf87c131c882a343f23a4aee55;Ophthalmic Medical Technicians
+610;2a3367b6e07937b383e5db27b2d871d7;Pest Control Workers
+611;26c2cb022029bcdea08ac19dd86b2bed;Pressers, Textile, Garment, and Related Materials
+612;5c5e836983304cc4252a54b9ce9dbe58;Heavy and Tractor-Trailer Truck Drivers
+613;e52676fbd1b84223b1c4617638b615d4;Preventive Medicine Physicians
+614;6d3d3dd063b938a15058a9dff72fd337;Gem and Diamond Workers
+615;8d0ff26f2093731206bd5afa093717da;Food Preparation Workers
+616;9fc473929db1525c6be5412a66539f09;Recreation Workers
+617;3f2ba4429a667f6bcc9f88347f1d98d1;Sales Managers
+618;092a98caa105370a97a35e87775482f8;Meeting, Convention, and Event Planners
+619;05d507b5052f3f105eb5602c10723103;Market Research Analysts and Marketing Specialists
+620;ed2e2c2de953209b48da70af0a91264f;Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists
+621;c9cc4a675cdedada26cb752ef3aa7fd1;Office Machine Operators, Except Computer
+622;9be08e52c4a02008cb35592472169050;Packers and Packagers, Hand
+623;a47412dd26fbda4c449c3e2a4a5289da;Insurance Adjusters, Examiners, and Investigators
+624;217c862352da1b04175ac81f5d107171;Appraisers, Real Estate
+625;c3a697390f2ef7226141d011dd7731e8;Tax Preparers
+626;001c8bd3f1ee0c73472e8eddcddca54f;Curators
+627;cb01ba308977a7496bf5014fe3beeaee;Genetic Counselors
+628;14bd0245ac64b8abf7fa845468c63cd8;Farmworkers, Farm, Ranch, and Aquacultural Animals
+629;c80b795c61b66ce7d93000761d21632f;Historians
+630;93155395204f05007ec9df7db7d49daa;Recreational Therapists
+631;6e75a1e1e69adc9af982d9ad66f1bad9;Physical Therapist Assistants
+632;3ffe9bc56a3fd00b02fbdc71c03976f9;First-Line Supervisors of Office and Administrative Support Workers
+633;12e070d50f4e84afba9e0b51a60ff517;Coating, Painting, and Spraying Machine Setters, Operators, and Tenders
+634;675597bc4ccfe260b7a0052d423cdaa8;Communications Teachers, Postsecondary
+635;8c9bb26a2b2457016f494732c6a82c5b;Dermatologists
+636;bde3309e7c400cbe818cf033f4b3e295;Speech-Language Pathologists
+637;e963e743060b8eac35622b5708d08763;Acute Care Nurses
+638;ce1aaffbeacbf7b840241357b2e9f452;Criminal Investigators and Special Agents
+639;0f7373a4dfd37298ee81c95bd7dcf69c;Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers
+640;04621e69962dba38af33388bf6982731;Cutting and Slicing Machine Setters, Operators, and Tenders
+641;d6cb716714cdb19baceb8132e8f3b3d6;Training and Development Managers
+642;ab916b032d6625137e2d4a82e39aa117;Special Education Teachers, Middle School
+643;a50fe85fcef7568a617541cd152e7a17;Music Directors
+644;ff281d7eb01f4dba07337d20aebff7f5;Postal Service Clerks
+645;a2995c6d482fe453de5f2d7707af44d1;Educational, Guidance, School, and Vocational Counselors
+646;6d712034a7d09053d44d85c51b7b434c;Physical Therapists
+647;07ee6a15f093de3bc3271a14f646e797;Veterinarians
+648;91c331d533ef23e4f4b87c303208dd5f;Stock Clerks- Stockroom, Warehouse, or Storage Yard
+649;ee9cba3ec4a717fcfc5035da6ab90e2f;Aircraft Cargo Handling Supervisors
+650;475f6bbbede9be3ec2e85d527ac9ceda;Compliance Managers
+651;f8c544b9e5fd665904b966ce5a4fec75;Public Address System and Other Announcers
+652;52fefa751391a3969ceeaa3209c38aa9;Photographers
+653;430aaf9809812ccc822ef42674765d0e;Social Science Research Assistants
+654;9783ebd146cb9e0b64d51cc168b20010;Business Teachers, Postsecondary
+655;6b34ffedefa8b2376647a74a897b2da9;Sports Medicine Physicians
+656;1238e4f561f5a697ca55fdf0c00a4e98;Farmworkers and Laborers, Crop
+657;f5141158c287f4f3b9f8c7f542b03eaf;Graphic Designers
+658;1f133e777f5aaf0dd9695d97ace224b6;Acupuncturists
+659;88f11b48a52d761a991b74735397753c;Parking Enforcement Workers
+660;8a25b57a284e2e7b11ea1c8e2c92d375;Sheriffs and Deputy Sheriffs
+661;ca43bfaab1ad098a60b1acf354ce33ad;First-Line Supervisors of Food Preparation and Serving Workers
+662;fb9eebdb10ad3bc590e2b7f7f6d1acfc;Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders
+663;4a696a1ef1535b7b3554ddc4eb1fe49a;Postmasters and Mail Superintendents
+664;290d79268b4d0c93b968c2fbffd10477;Dietitians and Nutritionists
+665;e911da08f4dde94eb879e25cb1584d8c;Pharmacy Technicians
+666;765ab6a9faef7be71cd35a36329130c2;Physical Therapist Aides
+667;4f66395cf5eb5f6f5e32bfdc65e0817f;Immigration and Customs Inspectors
+668;ba4da3f278cc67e0779589ebca91f2a6;Cooks, Restaurant
+669;81c31143844d96887dc03b14ecac2250;Art, Drama, and Music Teachers, Postsecondary
+670;51cc95467c1844c7dc1d923265c023b2;Elementary School Teachers, Except Special Education
+671;73731b024537767e32a85f6d6e2c7013;Midwives
+672;0ed0cf422bcaef7b4a9662f5b5387354;Parts Salespersons
+673;1ed77f0765b59515d1b086c53f447fec;Floor Sanders and Finishers
+674;8c1700a459ac2757faac2a04aa9bd278;Industrial-Organizational Psychologists
+675;d35cab3bec5868d3915661691bd570be;Home Health Aides
+676;e230ee77e745ac2774d96891dc44deec;Furniture Finishers
+677;aa23c5946891d6cb963c9993b85b8c83;Survey Researchers
+678;8561f823df244af44fe14b1d296e21d3;Merchandise Displayers and Window Trimmers
+679;2b0cabefe4e5a4fea9ab304dc43db808;Public Relations Specialists
+680;a099ed05293ca22c33953bdb87b82b92;Nursing Assistants
+681;ce541dc01fd26584e798d12b816e2967;Administrative Services Managers
+682;fdf11d59ff003a050cb6201bc00ef850;Fitness and Wellness Coordinators
+683;9c5c966ccacfa05a586c698ba14df1f0;Orthoptists
+684;6075cb604d99ff1bdf847fd94838581b;Cooks, Short Order
+685;4634bbc63c7d257fc47dcf70a02e3021;Tour Guides and Escorts
+686;85bf3b600972667cdd3c92e0fa9a3c1d;Tapers
+687;9a8ccf56d11f7a09768410fd24c26918;Food Cooking Machine Operators and Tenders
+688;945eaa86abc79374086b5dfc7295cf57;Funeral Service Managers
+689;2786696b8feac85012b9b581bcbdd5f7;Biostatisticians
+690;157d104fb9295abb821ff19f5a9f05ae;Psychology Teachers, Postsecondary
+691;d99a77de714551f551cf172f108f8849;Occupational Therapy Assistants
+692;527bf5b48edcac77455daa07a4d63026;Ushers, Lobby Attendants, and Ticket Takers
+693;5343fb48f33fb5c157cdb4cf975260f6;Fitness Trainers and Aerobics Instructors
+694;cf373ffb30e5ed60318ee77b01c84395;Reservation and Transportation Ticket Agents and Travel Clerks
+695;678ae325c05ccc3cc3738ae4d125cc8e;Tailors, Dressmakers, and Custom Sewers
+696;49b0a4f9cdf092ccc7c3ab9ac2d5a764;Upholsterers
+697;e970048b097ad67523e979213ea848ba;Parking Lot Attendants
+698;6d0be879f950f0c9a531f5afb4d17312;Education Teachers, Postsecondary
+699;5b42002f42413293153a7081e7356a4a;Vocational Education Teachers, Postsecondary
+700;89a1affaffc875f208b5d8864671dbee;Floral Designers
+701;88bc559222a9d7cb5eb985d2ac462b4b;Physician Assistants
+702;d806562cde477917fceaa6befcdfaa19;Dining Room and Cafeteria Attendants and Bartender Helpers
+703;1e48a025c8c6af7c8a243985049f6e26;Dishwashers
+704;ab62c50de3e2feed38433656eef5ac7c;Maids and Housekeeping Cleaners
+705;198c05eb4a85778781e57ad911b0af5d;Morticians, Undertakers, and Funeral Directors
+706;3ecdbfc5f99bb27698c3676739776305;License Clerks
+707;dad90b2c52698443f6b326f1380d2ae7;Patient Representatives
+708;fcdfff42f64cda197dd93f1eae17e39b;Assessors
+709;c8f6fb6fa6aa2834662765d348e71352;Hospitalists
+710;34b5181c68bf27865467282735f6ea14;Cytogenetic Technologists
+711;f0f90d236fc2c103c4f9bb850d937c32;Janitors and Cleaners, Except Maids and Housekeeping Cleaners
+712;3f74bd736898781586c6fd0b907ec20b;Amusement and Recreation Attendants
+713;1a2a0e9f50f751abf5ab786c12d1ec3b;Manicurists and Pedicurists
+714;c99302b89fbaa9dbb6c2b8239d31a69b;Nursery Workers
+715;c1345e49fb669773dc8acbfeb800dca5;Bus Drivers, Transit and Intercity
+716;629316dce2869858e27f0267803c176c;Treasurers and Controllers
+717;6f733093f5064e537eff0c4db1288492;Education Administrators, Postsecondary
+718;ca3bbc2eb2a5d0ce444892023b6da4b0;Epidemiologists
+719;6b32c0b1936e3a762547abda292ecec9;Home Economics Teachers, Postsecondary
+720;0efa2912bea97b06a0a3a3dfd5079ae6;Archivists
+721;f096907d683be7bfff20f2af5af3fc3f;Singers
+722;f5825d460b68cfb89799b110f9b57d35;Investment Fund Managers
+723;30ab203f437e940183274ac15379aa99;Auditors
+724;082d8c7fd1f72dfd5027839655ee4b18;Budget Analysts
+725;07abb96d97818b00ecd040d7a0f47176;Anthropology and Archeology Teachers, Postsecondary
+726;2963ac3d4bc90348d667041d1b47e816;Baristas
+727;6452a42c553de2a5762544be44340449;Slot Supervisors
+728;5af0cac41f0b5dd2aea06700f54ceee5;Concierges
+729;045d31612eb7c3be4972a345dc6897f4;First-Line Supervisors of Retail Sales Workers
+730;918464a4e1344b5ad9e376a985ce0866;Brokerage Clerks
+731;1b98a045acf401bd60c7da36c5d3d117;Medical Secretaries
+732;d0d374e74b923a4d17d446c6cbb03c6d;Textile Knitting and Weaving Machine Setters, Operators, and Tenders
+733;4d7927ce4e050f3ba94990bf41dc415f;Flight Attendants
+734;4ff7d49801581942d6950aeee2b899e9;Judges, Magistrate Judges, and Magistrates
+735;d28f484d3b46fdf039f094b4c15712ce;Music Therapists
+736;6a5de1b0affc8ffa739d4271ee3f076d;Nurse Midwives
+737;f3912fcd6ca52b4544b836815f4416a1;Animal Control Workers
+738;42f43b84dfc878f203bd4466c177d787;File Clerks
+739;af1a873f6d48de271bf7f84aa0a76124;Log Graders and Scalers
+740;5be7c2cba46ad86d72baac0f0c31ed70;Gaming and Sports Book Writers and Runners
+741;11bc5ebe32fd242a1edac412fc847915;Agricultural Equipment Operators
+742;dccdf3834e80bb2dd37e48dddd413a2d;Substance Abuse and Behavioral Disorder Counselors
+743;5f23f1b292294fc292ef3d26d7c79cd9;Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders
+744;b95174a417c23639091be3447adf0dfc;Actuaries
+745;de4684389978230e3c916f74dbcde1b2;Musicians, Instrumental
+746;724ae54216f6c6350a196ee0e94eee91;Veterinary Assistants and Laboratory Animal Caretakers
+747;85d69a55adeb6aa05a45858e5acd92f5;Nonfarm Animal Caretakers
+748;344aba9dcfa11889b5ae926bfab624e8;Statement Clerks
+749;49c83859d59c70c4a48d1f70bc877a69;Procurement Clerks
+750;e8f71f06c511bc77ef3c05f369371839;Tellers
+751;c04fef01cd9195ea072d0081c42c3700;Farm Labor Contractors
+752;039efa8086f7449d49477fe829d36d98;Dancers
+753;0c5b7db69f27940a01572aa019e8e4ad;Anthropologists
+754;dbbb1aac7a8350963ce0295efb70ae81;Librarians
+755;ca7aec7f560fd1528f46d48ca3b51721;Advanced Practice Psychiatric Nurses
+756;04f4358521343f6197cf6a752ad1305b;Cytotechnologists
+757;e78bc4a44da24907351e64a19580c933;Police Patrol Officers
+758;e58c53c8a2185abc3a5441b2dbd2a044;Weighers, Measurers, Checkers, and Samplers, Recordkeeping
+759;0701c5cfbe1f90d6488f42c9c056f34b;Human Resources Managers
+760;d990f3ff4c50f5317407a5ba0f9dcd3b;Social and Community Service Managers
+761;c3ff33846af8899b6089e6b9591b61b6;Lawyers
+762;494115a349b2b232e6bfa65941df5ebd;Library Science Teachers, Postsecondary
+763;3107428680c81a337018fe780fee25e7;Special Education Teachers, Secondary School
+764;25aa9f6e90db5c3a734b68d57b7fb797;Reporters and Correspondents
+765;da9c6e15fa2e68bcd5c5004b61f7434e;Real Estate Brokers
+766;ee2203f89bbc6a3a157897bce702599a;Training and Development Specialists
+767;81140fd234f54546caa6bb2fbf19bbd9;Customs Brokers
+768;0b4f9b5403a61d085f722e1e3316c099;Poets, Lyricists and Creative Writers
+769;3eea45eb2029f04bfbdf971b3d60497c;Interpreters and Translators
+770;0e6d9251034ac6e8d0d431733b6ea03b;Recreation and Fitness Studies Teachers, Postsecondary
+771;073936f250ddce587156b2dd12c3c4c6;Registered Nurses
+772;5fe4c061bc345c1c42a66db9bf41c2e5;Medical Assistants
+773;3c3d6f5f86f85e60f39267d8c7818cbc;Meter Readers, Utilities
+774;1ce37bec31fb2208fa97000610ec8c04;Economists
+775;d9b36998c97be687bd400e5caf440bf5;Actors
+776;1544de43e29de2be0e17955cdff19a58;Pharmacists
+777;fc628da19043c0aa366b7877269fae69;Family and General Practitioners
+778;5008fbbbe9a3fb51b867da5a34bed94b;Bartenders
+779;bddf783ec2ba0085fa7553bf4387c42e;Residential Advisors
+780;17904646c9da057aa5fec48ed7e018f2;Advertising Sales Agents
+781;74bd19c3156d249a7fe8eb3148fbc081;Secretaries and Administrative Assistants, Except Legal, Medical, and Executive
+782;9b43e1694d1612b9e2402e1a927c4d3a;Private Detectives and Investigators
+783;a4904e744fddc25713524849c689752c;Transportation Security Screeners
+784;dec033a612a61b78855f2197e3b7a695;Bill and Account Collectors
+785;40a86d63d1e7171c2cb06444c9b703b0;Claims Examiners, Property and Casualty Insurance
+786;81fccd7a89a2c52b0e7bd647fc952845;Human Resources Specialists
+787;5022e4195db896f8434b53c037a14b40;Labor Relations Specialists
+788;bc29c2aaad268d18e175729e381e51ce;Credit Analysts
+789;e41414f8f819f602059013609ac73ddb;First-Line Supervisors of Personal Service Workers
+790;27a2cbcf4cccf6d2aac660c4ef154fe0;Gaming Cage Workers
+791;af4305b12765ea0c319a6aa1de5a2638;Coil Winders, Tapers, and Finishers
+792;886e279f89d238d2c87f7cdf3cc99a57;Laborers and Freight, Stock, and Material Movers, Hand
+793;6e34ba16365a27a706285b090a0d9cc6;Personal Financial Advisors
+794;7172162b3576ec5839dd18d7d5c75dc7;Neuropsychologists and Clinical Neuropsychologists
+795;64848aac754111a0b7e250e80de47233;Probation Officers and Correctional Treatment Specialists
+796;26802ca47cc2f1b2b348398735921f11;Clergy
+797;4f6ee1e935130912be3a9a97f0ed218a;Administrative Law Judges, Adjudicators, and Hearing Officers
+798;23e28cd37054606696ad630617942658;Talent Directors
+799;4f02236c49ccd43205b9b0e89b978a67;Licensed Practical and Licensed Vocational Nurses
+800;99ac11b770f5a0eb7da8c6a8c68c70e8;Cooks, Institution and Cafeteria
+801;451ef3ee5ec3458356439ee6dbb71752;Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop
+802;19a2ac163163315af7ec17d5f91c906a;Baggage Porters and Bellhops
+803;9d3f378250a4b1464e7416b455b345f6;Human Resources Assistants, Except Payroll and Timekeeping
+804;86287cd6c315d6737cbb57decbd51f2a;Slaughterers and Meat Packers
+805;b9395a0c9f252a057e9b153c5c7f4bdd;Interviewers, Except Eligibility and Loan
+806;77262d57ecb889288f7a33aa750f77c2;Clinical Research Coordinators
+807;7f8ab1917158c5fbffe83402e8cbebb7;Special Education Teachers, Kindergarten and Elementary School
+808;e1dc887c7d750acd50361fd04c389086;Food Servers, Nonrestaurant
+809;e8d675bf449644c2fdd1bbe0e6707b87;Spa Managers
+810;167647d1f0b5b068d232536f5d0c6f2a;Nannies
+811;3ede815bfb5b7becbc0a8008caed9c1d;Packaging and Filling Machine Operators and Tenders
+812;8747001d910046532a67091636e715b8;Rehabilitation Counselors
+813;db06efbaa9cb31d42e02c047ffb0a15a;Medical Records and Health Information Technicians
+814;ac6df79c1c72a0fcdcd54130cfb52462;Funeral Attendants
+815;d2ed4377484aba967ddc637246afc44c;Public Relations and Fundraising Managers
+816;51e7f7c8df6da17fb7185bd6f47bb2d9;Financial Analysts
+817;8fa6194fde961c96472eddb7d8507228;Tax Examiners and Collectors, and Revenue Agents
+818;3240a2c56298ebb4846d89281ab2e1f1;Occupational Therapy Aides
+819;498e3773de93cd26b45c4bfd08502db5;Massage Therapists
+820;ccac9e601d3b29fcf0b38df3b324f509;Sewing Machine Operators
+821;09ceac85294edf92c92c68971a09c905;Advertising and Promotions Managers
+822;45d7d4131c69ecdf3b8ddc245332b51b;Economics Teachers, Postsecondary
+823;d78b3ba8b749686d739480ee77f9e219;Preschool Teachers, Except Special Education
+824;4609c91156c61265684be4197356a375;Teacher Assistants
+825;4930ec04446af325778cc4fecb231239;Athletes and Sports Competitors
+826;ced1dfdb0a6ee010c7a144011f254b72;Naturopathic Physicians
+827;2262182421007c427d51ef808f66ba23;Cooks, Private Household
+828;67092083b8c6d9bacc71688c354ad0e4;Shipping, Receiving, and Traffic Clerks
+829;f9996981aded991462bbd8a34fb12209;Political Scientists
+830;d71dde446ca1f05fcb41a4660eb1f1ff;Mental Health Counselors
+831;92934d287c9ed5108e1c6b0c3ed2b469;Internists, General
+832;42657865b2f76f48be274ddc52418e3a;Psychiatric Aides
+833;b0da86b7c95dcffd761e146625984f61;Locker Room, Coatroom, and Dressing Room Attendants
+834;a9cd28e87255f24f01a81ca7358865e2;Real Estate Sales Agents
+835;0c1dadfb4f6cdb583435eaed02b4b2a5;Butchers and Meat Cutters
+836;f0bdd0d2dd4e48029e474d2fa3049243;Taxi Drivers and Chauffeurs
+837;0818dd8aa9c0b543d89f030a9a7a1bc1;Licensing Examiners and Inspectors
+838;af6e67f75719df96616cc6190bf3f748;Coaches and Scouts
+839;d61c8177a58f15f00e508c0de983a8a6;Bailiffs
+840;4be080220c824dcb435d59ebf1c3ce80;Gaming Dealers
+841;6df814eeb98dda3dbf5548187a0e6b18;Hairdressers, Hairstylists, and Cosmetologists
+842;50e36ad87fac02cbf552c8477d426d4f;Gaming Change Persons and Booth Cashiers
+843;2e901f99e57840876385aa4f7d2b8f8e;Directors, Religious Activities and Education
+844;f3f7b8a34a5dbadd40f7be5b1ffd703c;Gaming Supervisors
+845;d4329f86fd897eeafcee02493829c22c;Switchboard Operators, Including Answering Service
+846;3acfe3540d177b76c8dba6703cf58430;Marking Clerks
+847;0d2b61c4f952a57b1683ec358f06b743;Graders and Sorters, Agricultural Products
+848;aedeb08c4084280bdbb91058993c0c36;Pourers and Casters, Metal
+849;cbefcd9bb1cb17dd93b7499699aa283b;Light Truck or Delivery Services Drivers
+850;30ea61559d05eaa71e684f6e350494b1;Accountants
+851;76bafdca8e7a4813e766a6d1d299148f;Court Reporters
+852;48bcfab25b04b205e591c8964677ce81;Speech-Language Pathology Assistants
+853;da0af7c1e51aeea6a35e98a42cd42720;Counter Attendants, Cafeteria, Food Concession, and Coffee Shop
+854;a6ee7de3ef174332c2d7302673a602e7;Cashiers
+855;c6b5b1a023205bda4212a3c5b5783681;Hotel, Motel, and Resort Desk Clerks
+856;bf88358c56bb6cbe7eabec38ae333d19;Data Entry Keyers
+857;3023fada64464ac6bfb50463d16847a5;Mail Clerks and Mail Machine Operators, Except Postal Service
+858;aca599ec9562e5e52723cafb6e9d2c1d;Political Science Teachers, Postsecondary
+859;5f4db5f18c4ce11d420994e02a86d12e;Waiters and Waitresses
+860;f0fc66d367f370fa64da4780019702cd;Telephone Operators
+861;072b2dea1c98561322b4acadd67ce723;Counter and Rental Clerks
+862;a5b9c9619dc7011893a5da1729629d27;Sales Agents, Financial Services
+863;e575604b869ae74a0a3b268d69bcfea9;Insurance Claims Clerks
+864;5dc51759bcb608b7f4d990e36a89d42e;Agents and Business Managers of Artists, Performers, and Athletes
+865;8aa2e0d634afc347f56d2173e15a6e68;Counseling Psychologists
+866;1cc3bbf74cd846c4983ab0b1dce43d08;Social and Human Service Assistants
+867;4af3836c61304124058069060a567ebb;Area, Ethnic, and Cultural Studies Teachers, Postsecondary
+868;5c6c8a449073aa00fe602b7fe37ff96e;Adult Basic and Secondary Education and Literacy Teachers and Instructors
+869;2ec481e623ae35c23c74b52baa915088;Dietetic Technicians
+870;ddf105f3f78decc26a53844cef4ad5f0;Financial Examiners
+871;31b8d612dee3e8867e0ddac3920bde27;Loan Officers
+872;f9474af20f87dc392b59c518870168dd;Umpires, Referees, and Other Sports Officials
+873;b813bccdd0b53e30f2f90e83724ebe04;Art Therapists
+874;9a43d62087946f52cf06fa1790ed7fc7;Psychiatric Technicians
+875;2d1538858e97d894c085b760f8768f87;Childcare Workers
+876;e7f1bd1ae273fdc720238e73e48b648b;Police, Fire, and Ambulance Dispatchers
+877;a0cc5b003799d172211c33a9c14929dc;Financial Managers, Branch or Department
+878;5bea6020695f4e29ccfffec048099344;Insurance Underwriters
+879;aad2d7bd12f02b0eae6f087c0c4ff799;Psychiatrists
+880;13ef84b284050441c19a2c40b50a9f58;Insurance Sales Agents
+881;706b0d4ce27d6840a7d69ce4bd1e212b;Customer Service Representatives
+882;563cd347b64bbc63218121da2faaf50c;Couriers and Messengers
+883;8aeee194a0e709e0c555aab374ac7c3a;Legal Secretaries
+884;7caddd4d3d06e5f2aec4091a21493194;Transportation Attendants, Except Flight Attendants
+885;b30370f068a350a30c1095becb75707a;Library Assistants, Clerical
+886;c3801edb6f70054d6a5f8c2a98e06439;Freight Forwarders
+887;5664385a36b9a0aa6f63c498e86b4654;Title Examiners, Abstractors, and Searchers
+888;aea694753542ab991979147d32fb3b70;Philosophy and Religion Teachers, Postsecondary
+889;f925529a6b3ee7a7c3c82b4e37dd9fb9;Barbers
+890;3eb8be26f38d699304907a67cf4e8cd8;Bookkeeping, Accounting, and Auditing Clerks
+891;a3404cd2894b19d3214dba2fdd4b18b4;Sociology Teachers, Postsecondary
+892;2bba23014eac4431871ce116363bc0d1;Choreographers
+893;03497acd5004c8fb10ac07c6663d1e72;Insurance Policy Processing Clerks
+894;0b9dd32a367f4562ec77b993053d1910;Clinical Data Managers
+895;1407f44eab489a942df80658db0cfccc;English Language and Literature Teachers, Postsecondary
+896;288a78558f5a3fe0f794e4d3176f1c29;Transit and Railroad Police
+897;a2049baa0b821b2880e42de429af3f63;Driver/Sales Workers
+898;5b8467bab42e7b49ba30e779c897ed0e;Equal Opportunity Representatives and Officers
+899;ade745c838feb01c130ed54d67bbc2a0;Social Work Teachers, Postsecondary
+900;759c84264f5267deb976fbf455541fe7;Shampooers
+901;1c775979c3a4e60144fe0bad6ed1c91b;Mental Health and Substance Abuse Social Workers
+902;4e2bef041254e0fe9cd5fbffe5e4482e;Foreign Language and Literature Teachers, Postsecondary
+903;2c1537f6e4cf561113b6367796f516cf;Security Guards
+904;9289770a4f301bb15f6453cca0503de5;Office Clerks, General
+905;c6bf50e2af843496322e2cdd74fe4793;Compensation, Benefits, and Job Analysis Specialists
+906;5f876644db723523dcdeac13ab2778fa;Telemarketers
+907;4b88f5f9795ce144653563d47e717abe;Loan Interviewers and Clerks
+908;fa6db69f93a66d3f2773079047b69739;Executive Secretaries and Executive Administrative Assistants
+909;4692e9cb546aedb1b3158be740c7aec0;Health Educators
+910;2729e22b0b3d641f0f32f6bb616f62f1;Paralegals and Legal Assistants
+911;26d6e56404959ddd6de6990913c95aea;Personal Care Aides
+912;1a5017b39d04493d42c5123ea97e5d3d;Stock Clerks, Sales Floor
+913;330ff3c913cbe10cd030ae3eeab6dbe7;Word Processors and Typists
+914;5102d5579e9184c1a50752476c30d557;Clinical Psychologists
+915;3bdd6176ec70d0f9bf99576ef24efe02;Kindergarten Teachers, Except Special Education
+916;a35cbec10988e13ba0c0de2a213cc9e8;Medical Transcriptionists
+917;3949f01cec473efe69e655c762169901;Receptionists and Information Clerks
+918;5af1541fc54b13f9e16602ebab3548fc;Healthcare Social Workers
+919;f4bb6561784afc33704b64005d89cfce;Self-Enrichment Education Teachers
+920;620195c432b4b7f5c99d8eb8c1c8d3a6;Tutors
+921;c233d29ae7be0f1c1481749e2c598803;School Psychologists
+922;766c7fb6241e9af02f927f2e58221bc8;Community Health Workers
+923;ce1b77249ae156d76e1dc7aa7f91774c;Arbitrators, Mediators, and Conciliators
+924;86f24888444bd5c7cf20db10e3e4d5f3;Pharmacy Aides
+925;38af74431b97a5fa4c6b8a6c9a34a568;Travel Agents
+926;54dddfba5efacd479bf2670a4ec5e84d;Demonstrators and Product Promoters
+927;68687d836b4fdceb7bd1603314e4bab5;Postal Service Mail Carriers
+928;3bf48024176f0844db7a5cd329768a85;Compensation and Benefits Managers
+929;912b921a08cfa700a5c879e23625a928;Sociologists
+930;8ab342c81b400740d83e06d1a10b6066;Payroll and Timekeeping Clerks
+931;0d51230f2614fdcc9b3977c92b89e58b;Credit Checkers
+932;c87104a767ffe5f817fb497d8794802e;Order Clerks
+933;a116caa33a8821518867f27c034ed0fa;Credit Counselors
+934;25ac429f9072293d27a836ee2a148f47;Models
+935;907b94bb36b8ac0e3c042eb15bc82212;Municipal Clerks
+936;2b37b216741f461c273d8de23712dfd0;Eligibility Interviewers, Government Programs
+937;9db00d72807fa7ff5d56a96e6fc7d2d8;Billing, Cost, and Rate Clerks
+938;6ced476575679aa4f24d2b5f7e9852df;Judicial Law Clerks
+939;90b9a0ebb86893e6d002055d6d8045f9;Travel Guides
+940;6048ec3c3e75b24cbaf3287f5e55a4a9;Education Administrators, Preschool and Childcare Center/Program
+941;e3b9730de55b172090962480141ae92d;Fundraisers
+942;340ba58cc336fee4e3120d2a1a09b26b;Library Technicians
+943;be14c7935b47e280e934d8908fa8f00c;Crossing Guards
+944;91820b26d87f9c9b801037fb99a115db;Door-To-Door Sales Workers, News and Street Vendors, and Related Workers
+945;4c64455e593ecf01415f43be923ecd34;Correspondence Clerks
+946;da412504dd7b130414b7bbfa2acd563b;Proofreaders and Copy Markers
+947;8a725e499d270dc97e9e3d87c939b96e;Court Clerks
+948;bf8ac03befd42e46b3d8490802333378;Bus Drivers, School or Special Client
+949;78e0562032df97cc82fcc48388cdf34b;Postal Service Mail Sorters, Processors, and Processing Machine Operators
+950;998a71de29e992c5dc61cd79c09b6cd7;Law Teachers, Postsecondary
+951;2311892cb8cf483f3b6a17489be5057d;History Teachers, Postsecondary
+952;90c550c8805a100bd96937740668cbc8;Loan Counselors
+953;7bbe67cb54b2e639a6a6e3fe505e54bb;Marriage and Family Therapists
+954;a76814fe035ad5910922091a663b650f;Child, Family, and School Social Workers

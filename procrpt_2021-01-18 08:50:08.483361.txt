@@ -1,0 +1,4 @@
+UUID: c09c8f8c163907ac25a37c3dd591ba2e : engineering and technology
+Start: 2021-01-18 08:50:06.185948 -  End: 2021-01-18 08:50:08.483567
+Total jobs retrieved: 954
+Bin POST: 404 NOT FOUND
