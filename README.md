@@ -32,7 +32,7 @@ Python libraries:
 - sys
 
 Files:
-- appexp.log: exceptions log
+- appexp.log: exceptions log with sample errors
 - engineering and technologyjobsrp_(datetimestamp).csv: jobs report output
 - engineering and technologypayload_(datetimestamp).json: payload to RequestBin
 - MIROJobSkilz.1.1.py: program code
