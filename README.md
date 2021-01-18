@@ -32,12 +32,12 @@ Python libraries:
 - sys
 
 Files:
-- appexp.log exceptions log
-- engineering and technologyjobsrp_(datetimestamp).csv jobs report output
-- engineering and technologypayload_(datetimestamp).json payload to RequestBin
-- MIROJobSkilz.1.1.py program code
-- procrpt_(datetimestamp).txt processing log
-- MIRO-testRBin_2021.png image of RequestBin POST
+- appexp.log: exceptions log
+- engineering and technologyjobsrp_(datetimestamp).csv: jobs report output
+- engineering and technologypayload_(datetimestamp).json: payload to RequestBin
+- MIROJobSkilz.1.1.py: program code
+- procrpt_(datetimestamp).txt: processing log
+- MIRO-testRBin_2021.png: image of RequestBin POST
 
 
 
