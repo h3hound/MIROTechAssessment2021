@@ -1,4 +1,4 @@
-# MIRO Assessment ReadMe
+# Assessment ReadMe
 h3hound/Ben Adair
 
 Problem Definition: Write a program in the language of your choice to extract the skill sets and corresponding jobs with that skill set in listed 
@@ -36,9 +36,9 @@ Files:
 - appexp.log: exceptions log with sample errors
 - engineering and technologyjobsrpt_(datetimestamp).csv: jobs report output
 - engineering and technologypayload_(datetimestamp).json: payload to RequestBin
-- MIROJobSkilz.1.1.py: program code
+- JobSkilz.1.1.py: program code
 - procrpt_(datetimestamp).txt: processing log
-- MIRO-testRBin_2021.png: image of RequestBin POST
+- testRBin_2021.png: image of RequestBin POST
 
 
 
