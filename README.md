@@ -20,7 +20,7 @@ Bonus: Create an array of all the jobs with the skill and push the payload to a 
 
 Tools:
 - Python 2.7
-- Eclipse IDE
+- Eclipse IDE/PyCharm
 - GitHub
 - RequestBin.net http://requestbin.net/r/1fna7l31
 - JSON viewer http://json.parser.online.fr/
